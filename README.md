@@ -1,44 +1,16 @@
-<!--
-**rmdhnramlee/rmdhnramlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Harry 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-###
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV2YndqemE2YjVvNzhweTlxbHVmY2JyeGdjMDFjankxZWVlN3J3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"  />
+<div>
+  <img align="right" height="120" src="img/star pixel - Kawaii.gif"  />
+  <p align="left">I'm from earth!! someone who is learning about programming and someone who never imagined before that I would become a programmer</p>
 </div>
 
-<h3 align="center">Hello World!!👋</h3>
-
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+<div align="left">
+  <a href="https://www.instagram.com/canopuszzz_?igsh=MTlpMmxtMDFmcGd5YQ==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
