@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFhZTFodTBvaWlwdW1zZ282cmt1OGkzaHZyN3k5aWhsenR5dXo3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif">
 <h2 align="left">Hello World!👋</h2>
 
-<p>Lorem ipsum...<br>
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFhZTFodTBvaWlwdW1zZ282cmt1OGkzaHZyN3k5aWhsenR5dXo3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif">
+
+<p align="left">Lorem ipsum...<br>
 Papipapipum</p>
 
 ###
