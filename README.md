@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![gambar](img/meme%20golden%20rasio%2075.png)
+![gambar](<img/download%20(3).jpeg>)
 
 <h2 align="left">Sheesshh</h2>
 
