@@ -1,5 +1,3 @@
-## Papipapipum
-
 <!--
 **rmdhnramlee/rmdhnramlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![gambar](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFhZTFodTBvaWlwdW1zZ282cmt1OGkzaHZyN3k5aWhsenR5dXo3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif)
+###
 
-<h2 align="left">Sheesshh</h2>
+<img align="right" height="120" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFhZTFodTBvaWlwdW1zZ282cmt1OGkzaHZyN3k5aWhsenR5dXo3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif">
+<h3 align="left">Hello World!</h3>
+
+<p>Lorem ipsum...<br>
+Papipapipum</p>
 
 ###
 
@@ -26,5 +28,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmdhnramlee/rmdhnramlee/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rmdhnramlee/rmdhnramlee/output/pacman-contribution-graph.svg">
 </picture>
-
-###
