@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV2YndqemE2YjVvNzhweTlxbHVmY2JyeGdjMDFjankxZWVlN3J3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV2YndqemE2YjVvNzhweTlxbHVmY2JyeGdjMDFjankxZWVlN3J3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif">
 
 <h3 align="center">Hello World!!👋</h3>
 
