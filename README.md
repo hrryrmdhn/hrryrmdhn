@@ -5,7 +5,7 @@
   <p align="left">I'm from earth!! someone who is learning about programming and someone who never imagined before that I would become a programmer</p>
 </div>
 
-##
+###
 
 <div align="left">
   <a href="https://www.instagram.com/canopuszzz_?igsh=MTlpMmxtMDFmcGd5YQ==" target="_blank">
@@ -13,7 +13,7 @@
   </a>
 </div>
 
-###
+##
 
 <img src="https://raw.githubusercontent.com/rmdhnramlee/rmdhnramlee/output/snake.svg" alt="Snake animation" />
 
