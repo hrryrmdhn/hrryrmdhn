@@ -2,7 +2,7 @@
 
 <div>
   <img align="right" height="100" src="img/star pixel - Kawaii.gif"  />
-  <p align="left">I'm from earth!! someone who is learning about programming and someone who never imagined before that I would become a programmer</p>
+  <p align="left">I'm from earth!! someone who is learning about programming and someone who never imagined before that <br> I would become a programmer</p>
 </div>
 
 ###
