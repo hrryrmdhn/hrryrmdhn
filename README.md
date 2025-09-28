@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/download(1).gif">
+  <img src="img/download (1).gif">
 </div>
 
 ## Hi, I'm Harry 👋
