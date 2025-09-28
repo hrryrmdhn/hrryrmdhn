@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="img/download.gif">
+</div>
+
 ## Hi, I'm Harry 👋
 
 <div>
