@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="img/download (1).gif">
+  <img height="200" src="img/download (1).gif">
 </div>
+
+###
 
 ## Hi, I'm Harry 👋
 
