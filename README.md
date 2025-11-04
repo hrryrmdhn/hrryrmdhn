@@ -8,7 +8,8 @@
 
 <div>
   <img align="right" height="100" src="img/star pixel - Kawaii.gif"  />
-  <p align="left">I'm from earth and live there🗿</p>
+  <p align="left">I'm from earth and live there🗿<br>Demi ungger</p>
+  
 </div>
 
 ###
